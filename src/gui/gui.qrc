@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/stylesheet-branch-closed.png</file>
+        <file>images/stylesheet-branch-end.png</file>
+        <file>images/stylesheet-branch-more.png</file>
+        <file>images/stylesheet-branch-open.png</file>
+        <file>images/stylesheet-vline.png</file>
+        <file>images/icons/circle16-gray.png</file>
+        <file>images/icons/circle16-green.png</file>
+        <file>images/icons/circle16-red.png</file>
+        <file>images/icons/circle16-yellow.png</file>
+        <file>images/icons/icon32.png</file>
+        <file>images/icons/icon128.png</file>
+        <file>images/schemas/shema-local-to-remote.png</file>
+        <file>images/schemas/shema-remote-to-local.png</file>
+        <file>images/icons/remove16.png</file>
+    </qresource>
+</RCC>

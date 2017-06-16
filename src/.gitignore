@@ -1,0 +1,8 @@
+moc/
+obj/
+Makefile
+*.pro.user*
+*.o
+ui_*.h
+ui_*.cpp
+qrc_*.cpp
