@@ -29,7 +29,9 @@ One of the most simple cases can be described by the following figure:
 .. image:: doc/source/_static/schema4.png
    :width: 600px
 
-See documentation for more information and use cases.
+See documentation for more information and use cases:
+
+http://qmtunnel.readthedocs.io/
 
 
 Architecture
