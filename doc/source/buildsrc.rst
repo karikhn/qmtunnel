@@ -20,7 +20,7 @@ RedHat/CentOS (7)
 
 2. Download sources::
 
-    git clone [link goes here]
+    git clone https://github.com/karikhn/qmtunnel.git
 
 3. Build::
 
@@ -43,7 +43,7 @@ Ubuntu (14.04 LTS)
 
 2. Download sources::
 
-    git clone [link goes here]
+    git clone https://github.com/karikhn/qmtunnel.git
 
 3. Build::
 
