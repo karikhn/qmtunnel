@@ -74,9 +74,9 @@ Windows XP and later (32 bit)
 
 4. Get the latest qmtunnel sources from GitHub:
 
-   [link goes here]
+   https://github.com/karikhn/qmtunnel/archive/master.zip
 
-5. Cd to qmtunnel directory and run::
+5. Unpack, cd to qmtunnel directory and run::
 
     cd src\gui
     qmake

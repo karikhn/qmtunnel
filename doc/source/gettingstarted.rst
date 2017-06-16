@@ -16,15 +16,17 @@ You may find qmTunnel useful if you need (all features are optional):
 Installation
 ------------
 
-You can either download binaries for most popular platforms or build the project
+You can either download binaries or build the project
 from sources.
 
-Download link: http://qmtunnel.com/download/
+Binaries download link: http://qmtunnel.com/download/
 
-At the moment the binaries are provided without any installation tools or scripts.
-So you just need to unpack the files and put them into some directory.
+At the moment the binaries are provided without any installation tools or scripts
+and for Windows (compiled in 32-bit) only.
+You just need to unpack the files and put them into some directory.
 
-You can also see section :ref:`BuildFromSource`.
+You can also see section :ref:`BuildFromSource` for build instructions on Linux
+platforms.
 
 
 Setting up qmTunnel server instance
